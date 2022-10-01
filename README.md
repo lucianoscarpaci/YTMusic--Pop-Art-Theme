@@ -4,4 +4,4 @@ Pop Art Theme for Youtube Music, [+] No Ads, and Background Playback
 
 Here's a walkthrough of implemented user stories:
 
-<img src='./RPF.gif' title='Video Walkthrough' width=500 height=750 alt='Video Walkthrough' />
+<img src='./RPF.gif' title='Video Walkthrough' width=400 height=800 alt='Video Walkthrough' />
