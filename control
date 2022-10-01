@@ -1,0 +1,9 @@
+Package: com.lucianoscarpaci.ytmusic++
+Name: YTMusic++
+Version: 0.0.4
+Architecture: iphoneos-arm
+Description: Pop Art Theme for Youtube Music, [+] No Ads, and Background Playback
+Maintainer: lucianoscarpaci
+Author: lucianoscarpaci
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
